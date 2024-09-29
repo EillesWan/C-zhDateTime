@@ -1,3 +1,7 @@
+
+# Environment
+.vscode/
+
 # Prerequisites
 *.d
 
